@@ -1,7 +1,7 @@
-# 📚 Educational Jupyter Notebooks: Numerical Optimization and Scientific Computing
+# 📚 NLA-Teaching-Notebooks
 ![License](https://img.shields.io/github/license/larrywigington/NLA-Teaching-Notebooks)
 
-A collection of step-by-step Jupyter Notebooks designed to teach **numerical linear algebra**, **optimization algorithms**, and **scientific computing methods** — combining theory, intuition, and clean Python implementations.
+A collection of step-by-step Jupyter Notebooks designed to teach **numerical linear algebra** and **optimization algorithms** — combining theory, intuition, and clean Python implementations.
 
 ---
 
